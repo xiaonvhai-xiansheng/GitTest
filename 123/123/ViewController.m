@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
+       UIButton *btn = [[UIButton alloc] init];
 }
 
 
